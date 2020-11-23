@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif; }
+
+body {
+  background-color: white;
+  color: #2a99cf;
+  user-select: none; }
+
+#section-1 {
+  background-color: #2a99cf;
+  color: white; }
+  #section-1 .col nav ul li {
+    font-size: 18px; }
+    #section-1 .col nav ul li a {
+      color: white; }
+      #section-1 .col nav ul li a:hover {
+        color: #0d608a; }
+  #section-1 .col i {
+    color: white; }
+
+#section-3 {
+  background-color: black; }
+
+/*# sourceMappingURL=project.css.map */
